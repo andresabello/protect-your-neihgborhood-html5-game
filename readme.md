@@ -1,6 +1,6 @@
 # Protect Your Neighborhood Game
 ### Frameworks
-Laravel, Vue, Phase 3
+Laravel, Vue, Phaser 3
 
 ### Instructions
 1. clone into local server... git clone
