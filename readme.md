@@ -13,7 +13,7 @@ npm run dev
 
 go to the browser and play
 
-###Next Steps
+### Next Steps
 Implement Leaderboard
 Save using Firebase
 Monsters follow roads in the maps as markers
