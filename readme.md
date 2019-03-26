@@ -12,3 +12,11 @@ npm install
 npm run dev
 
 go to the browser and play
+
+###Next Steps
+Implement Leaderboard
+Save using Firebase
+Monsters follow roads in the maps as markers
+Player can point gun sideways as well
+
+Feel FREE to make a pull request
