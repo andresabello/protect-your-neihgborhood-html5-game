@@ -1,8 +1,8 @@
-#Protect Your Neighborhood Game
+# Protect Your Neighborhood Game
 ### Frameworks
 Laravel, Vue, Phase 3
 
-###Instructions
+### Instructions
 clone into local server... git clone
 cp .env.example .env
 composer install
